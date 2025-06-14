@@ -43,9 +43,9 @@ This project presents a comprehensive dashboard analysis of global movie revenue
 ---
 
 ### Files in this Repo
-Raw data, Pivot Tables, and full dashboard
+[2022 Movies Report.xlsx](https://github.com/user-attachments/files/20739087/2022.Movies.Report.xlsx) - Raw data, Pivot Tables, and full dashboard
 
-https://github.com/Jibsat/2022-Movies-Report/edit/main/README.md - Project overview and documentation
+README.md- Project overview and documentation
 
 <img width="727" alt="dashboard -Screenshot" src="https://github.com/user-attachments/assets/4337e928-e765-434e-b8e9-bc265404dc2f" /> - Exported dashboard
 
